@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509005437733",
+    "project_id": "product-abcd",
+    "storage_bucket": "product-abcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509005437733:android:9069654435ea426f86d8cc",
+        "android_client_info": {
+          "package_name": "com.rnproduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509005437733-k9jfad7u1s3djjfgpcf236egif69muql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrIR96PAKUIJsEt4mJO3rqmes23dKeTlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509005437733-k9jfad7u1s3djjfgpcf236egif69muql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
